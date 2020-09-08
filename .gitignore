@@ -1,1 +1,9 @@
 /.idea/
+/target/classes/application.properties
+/target/classes/com/sale/online/vehicle/repository/DistricsRepository.class
+/target/classes/com/sale/online/vehicle/entity/Districts.class
+/target/classes/com/sale/online/vehicle/controller/LocationController.class
+/target/classes/com/sale/online/vehicle/service/LocationService.class
+/target/classes/com/sale/online/vehicle/service/impl/LocationServiceImpl.class
+/target/classes/com/sale/online/vehicle/VehicleApplication.class
+/target/test-classes/com/sale/online/vehicle/VehicleApplicationTests.class
