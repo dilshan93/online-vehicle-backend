@@ -28,10 +28,10 @@ public class LocationController {
     }
 
 
-    @PostMapping("/saveRoles")
-    public String saveRoles(@RequestParam String name) {
-
-        Role role = locationService.saveRoles(name);
-        return "role id >> "+role.getId()+"role name >>> "+role.getName();
-    }
+//    @PostMapping("/saveRoles")
+//    public String saveRoles(@RequestParam String name) {
+//
+//        Role role = locationService.saveRoles(name);
+//        return "role id >> "+role.getId()+"role name >>> "+role.getName();
+//    }
 }
